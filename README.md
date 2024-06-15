@@ -17,3 +17,7 @@ Clock show hours, minutes and seconds moving down in terminal to start from top 
 # Play in terminal
 
 `$ ttyplay qlock.ttyrecord`
+
+or
+
+`$ ttyplay qlock-by.ttyrecord`

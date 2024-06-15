@@ -6,6 +6,8 @@ Clock show hours, minutes and seconds moving down in terminal to start from top 
 
 # Demo
 
+![Demo](./qlock_by.gif)
+
 ![Demo](./qlock.gif)
 
 # Build

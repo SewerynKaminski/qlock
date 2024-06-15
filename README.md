@@ -10,4 +10,8 @@ Clock show hours, minutes and seconds moving down in terminal to start from top 
 
 # Build
 
-$ gcc -w -include time.h qlock.c
+`$ gcc -w -include time.h qlock.c`
+
+# Play in terminal
+
+`$ ttyplay qlock.ttyrecord`
